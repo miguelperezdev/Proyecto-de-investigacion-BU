@@ -1,0 +1,4 @@
+Promedio acumulado: 4.0990099009901 
+Desviación estándar: 0.4539812880516 
+% de participación: 72.2772277227723 
+Promedio días participación: 2.72602739726027
