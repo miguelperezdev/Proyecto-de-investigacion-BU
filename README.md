@@ -2,7 +2,7 @@
 
 **Curso:** Teoría de Probabilidad  
 **Profesor:** Rubén Darío Corrales Velasco  
-**Autor:** Miguel Pérez  
+**Autor:** Miguel Pérez, Jostin Wiesner, Daniel Fierro, Lennis Villa
 **Periodo:** 2025-I
 
 
